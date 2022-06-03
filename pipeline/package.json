@@ -1,0 +1,20 @@
+{
+  "name": "pipeline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pipeline.js",
+  "type": "module",
+  "scripts": {
+    "test": "npx tead"
+  },
+  "devDependencies": {
+    "tead": "^0.6.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rambda": "^7.1.4",
+    "sanctuary": "^3.1.0"
+  }
+}
